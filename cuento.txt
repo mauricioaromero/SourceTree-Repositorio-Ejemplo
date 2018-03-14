@@ -2,3 +2,8 @@ Prologo
 
 Introduccion al cuento, con agradecimientos, breve historia y cierre del prologo.
 
+Cuento
+
+Capitulo 1
+
+Desarrollo del contenido del capitulo 1. Se detalla completamente todo el capitulo 1.
